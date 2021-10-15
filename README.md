@@ -4,7 +4,7 @@
 
 XXL-JOB 一个开源的任务调度中心
 
-* 项目地址： http://gitlab.gexj.xyz:89/test/xxl-job-admin
+* 项目地址： http://github.com/gxjluck/xxl-job-admin.git
 
 * jenkins地址： http://68.79.41.99:30002/job/test_xxl-job-admin/   用户名/密码： admin/admin
 * 最终应用部署结果： http://52.83.110.171:31033/xxl-job-admin/    用户名/密码： admin/123456
